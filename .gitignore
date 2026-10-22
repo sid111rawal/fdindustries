@@ -1,0 +1,15 @@
+# Security sensitive credentials - NEVER push to GitHub
+ftp-details.txt
+
+# Mobirise builder database & history
+project.mobirise
+publish-hashes.json
+history/
+
+# Old server / draft files
+index.htm-server
+*.docx
+*.docx:Zone.Identifier
+*.eps
+mall-showcase-with-food-packaging/
+Blue & White Modern Industrial Business Logo/
